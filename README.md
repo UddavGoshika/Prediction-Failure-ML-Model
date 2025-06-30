@@ -94,6 +94,14 @@ Edit
          python src/evaluate.py --model models/rf_model.pkl
 
 --- 
+
+## Results:
+
+  <img src="https://img.shields.io/badge/ML-ECU%20Failure%20Prediction-blue?style=for-the-badge&logo=python" />
+
+
+
+---
 ##  📈 Model Performance
 
 Metric Score :
