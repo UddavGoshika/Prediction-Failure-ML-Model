@@ -53,9 +53,6 @@ Edit
 ├── 📄 requirements.txt ← Python dependencies
 └── 📄 README.md ← You are here!
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -136,9 +133,8 @@ Feel free to fork, modify, and contribute!
 📬 Contact
 Made with ❤️ by Shiva
 
-📧 Email: shiva@example.com
-🔗 LinkedIn: linkedin.com/in/shiva (Add your real link)
-📁 Portfolio: yourportfolio.com
-
+📧 Email: shivauddav187@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/goshikauddav/
+📁 Portfolio:https://uddavgoshika.github.io/Portfolio-Uddav/
 ⭐ Star this repo if you like it!
 📢 Share it with others who care about smart manufacturing!
