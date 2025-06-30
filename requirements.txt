@@ -1,0 +1,23 @@
+# Core Libraries
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+Random Forest 
+Bagging Classfier 
+
+# Utility
+joblib
+
+# Jupyter Notebooks (Optional, for development)
+notebook
+ipykernel
+
+# Optional: For reproducibility (if using Python .env)
+python-dotenv
