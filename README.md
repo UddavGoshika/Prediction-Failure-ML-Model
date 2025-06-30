@@ -78,26 +78,35 @@ Edit
 ### 🔧 1. Clone This Repo
 
 
-git clone https://github.com/yourusername/ecu-failure-prediction.git
-cd ecu-failure-prediction
+          git clone https://github.com/yourusername/ecu-failure-prediction.git
+          cd ecu-failure-prediction
 
 🐍 2. Install Dependencies
 
-pip install -r requirements.txt
+         pip install -r requirements.txt
 
 🤖 3. Train the Model
-python src/train.py --data data/ecu_data.csv --model models/rf_model.pkl
+      
+         python src/train.py --data data/ecu_data.csv --model models/rf_model.pkl
 
 📊 4. Evaluate the Model
-python src/evaluate.py --model models/rf_model.pkl
+       
+         python src/evaluate.py --model models/rf_model.pkl
 
-📈 Model Performance
-==> Metric	Score
+--- 
+##  📈 Model Performance
+
+Metric Score :
+
 ✅ Accuracy	92.5%
+
 🎯 Precision	90.1%
+
 🔁 Recall	89.7%
+
 🧪 ROC-AUC	0.94
 
+---
 🛠️ Built With
 🐍 Python 3.9
 
@@ -111,7 +120,7 @@ python src/evaluate.py --model models/rf_model.pkl
 
 📓 Jupyter Notebook
 
-###🔮 Future Enhancements :
+## 🔮 Future Enhancements :
 
 1.📡 IoT integration for live data capture
 
@@ -121,7 +130,7 @@ python src/evaluate.py --model models/rf_model.pkl
 
 4.📊 Live dashboard (Streamlit or Power BI)
 
-🤝 Contributing
+## 🤝 Contributing
 All ideas, issues, and pull requests are welcome!
 Please follow the structure and write clean code ✨
 
@@ -129,15 +138,19 @@ git checkout -b feature/YourFeature
 git commit -m "Add YourFeature"
 git push origin feature/YourFeature
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 Feel free to fork, modify, and contribute!
 
-📬 Contact
+## 📬 Contact
 Made with ❤️ by Shiva
 
 📧 Email: shivauddav187@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/goshikauddav/
+
 📁 Portfolio:https://uddavgoshika.github.io/Portfolio-Uddav/
+
 ⭐ Star this repo if you like it!
+
 📢 Share it with others who care about smart manufacturing!
