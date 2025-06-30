@@ -46,11 +46,17 @@ Edit
 ## 📁 Project Structure
 
 📦 ecu-failure-prediction/
+
 ├── 📂 data/ ← Raw and processed data
+
 ├── 📂 models/ ← Trained ML models (.pkl files)
+
 ├── 📂 notebooks/ ← Jupyter notebooks for EDA & training
+
 ├── 📂 src/ ← Python scripts (preprocess, train, evaluate)
+
 ├── 📄 requirements.txt ← Python dependencies
+
 └── 📄 README.md ← You are here!
 
 
