@@ -77,7 +77,7 @@ Edit
 
 ### 🔧 1. Clone This Repo
 
-```bash
+
 git clone https://github.com/yourusername/ecu-failure-prediction.git
 cd ecu-failure-prediction
 
@@ -111,14 +111,15 @@ python src/evaluate.py --model models/rf_model.pkl
 
 📓 Jupyter Notebook
 
-🔮 Future Enhancements
-📡 IoT integration for live data capture
+###🔮 Future Enhancements :
 
-🧠 Deep Learning (LSTM/Transformer-based models)
+1.📡 IoT integration for live data capture
 
-🌐 API endpoint (FastAPI/Flask) for real-time predictions
+2.🧠 Deep Learning (LSTM/Transformer-based models)
 
-📊 Live dashboard (Streamlit or Power BI)
+3.🌐 API endpoint (FastAPI/Flask) for real-time predictions
+
+4.📊 Live dashboard (Streamlit or Power BI)
 
 🤝 Contributing
 All ideas, issues, and pull requests are welcome!
