@@ -80,23 +80,19 @@ Edit
 ```bash
 git clone https://github.com/yourusername/ecu-failure-prediction.git
 cd ecu-failure-prediction
+
 🐍 2. Install Dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
+
 🤖 3. Train the Model
-bash
-Copy
-Edit
 python src/train.py --data data/ecu_data.csv --model models/rf_model.pkl
+
 📊 4. Evaluate the Model
-bash
-Copy
-Edit
 python src/evaluate.py --model models/rf_model.pkl
+
 📈 Model Performance
-Metric	Score
+==> Metric	Score
 ✅ Accuracy	92.5%
 🎯 Precision	90.1%
 🔁 Recall	89.7%
@@ -110,6 +106,8 @@ Metric	Score
 📊 Matplotlib & Seaborn
 
 🤖 scikit-learn & XGBoost
+
+📌Random Forest & Bagging Classifier
 
 📓 Jupyter Notebook
 
@@ -126,12 +124,10 @@ Metric	Score
 All ideas, issues, and pull requests are welcome!
 Please follow the structure and write clean code ✨
 
-bash
-Copy
-Edit
 git checkout -b feature/YourFeature
 git commit -m "Add YourFeature"
 git push origin feature/YourFeature
+
 📜 License
 This project is licensed under the MIT License.
 Feel free to fork, modify, and contribute!
