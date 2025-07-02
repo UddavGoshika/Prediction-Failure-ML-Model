@@ -81,15 +81,15 @@ Edit
           git clone https://github.com/yourusername/ecu-failure-prediction.git
           cd ecu-failure-prediction
 
-🐍 2. Install Dependencies
+### 🐍 2. Install Dependencies
 
          pip install -r requirements.txt
 
-🤖 3. Train the Model
+### 🤖 3. Train the Model
       
          python src/train.py --data data/ecu_data.csv --model models/rf_model.pkl
 
-📊 4. Evaluate the Model
+### 📊 4. Evaluate the Model
        
          python src/evaluate.py --model models/rf_model.pkl
 
@@ -97,14 +97,14 @@ Edit
 
 ## Results:
 
-  <img src="https://img.shields.io/badge/ML-ECU%20Failure%20Prediction-blue?style=for-the-badge&logo=python" />
+  <img src="https://github.com/UddavGoshika/Prediction-Failure-ML-Model/blob/main/Results.png" />
 
 
 
 ---
 ##  📈 Model Performance
 
-Metric Score :
+## Metric Score :
 
 ✅ Accuracy	92.5%
 
